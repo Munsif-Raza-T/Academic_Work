@@ -1,0 +1,6 @@
+Blue-Name of color
+Munsif-Name of person
+Hello-It is greeting
+Banana-Name of fruit
+Tomato-Name of vegetable
+Lion-Name of animal
